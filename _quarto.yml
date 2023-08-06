@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  preview: 
+    port: 5000
+    browser: true
+
+website:
+  title: "Palestra di Algoritmi"
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  
+  sidebar:
+    style: "docked"
+    contents: chapters/*
+  back-to-top-navigation: true
+  page-navigation: true 
+  reader-mode: true
+
+
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 1
+    toc-expand: 1
+    toc-location: right
+    smooth-scroll: true
+

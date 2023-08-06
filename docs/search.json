@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Palestra di Algoritmi",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html#markdown",
+    "href": "index.html#markdown",
+    "title": "Palestra di Algoritmi",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "index.html#code-cell",
+    "href": "index.html#code-cell",
+    "title": "Palestra di Algoritmi",
+    "section": "Code Cell",
+    "text": "Code Cell\nHere is a Python code cell:\n\nimport os\nos.cpu_count()\n\n16"
+  },
+  {
+    "objectID": "index.html#equation",
+    "href": "index.html#equation",
+    "title": "Palestra di Algoritmi",
+    "section": "Equation",
+    "text": "Equation\nUse LaTeX to write equations:\n\\[\n\\chi' = \\sum_{i=1}^n k_i s_i^2\n\\]"
+  },
+  {
+    "objectID": "chapters/0.introduction.html",
+    "href": "chapters/0.introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Ciao\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "chapters/1.complexity.html",
+    "href": "chapters/1.complexity.html",
+    "title": "Complexity",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "chapters/0.landing.html",
+    "href": "chapters/0.landing.html",
+    "title": "Palestra di Algoritmi",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "chapters/0.landing.html#markdown",
+    "href": "chapters/0.landing.html#markdown",
+    "title": "Palestra di Algoritmi",
+    "section": "",
+    "text": "Markdown is an easy to read and write text format:\n\nIt’s plain text so works well with version control\nIt can be rendered into HTML, PDF, and more\nLearn more at: https://quarto.org/docs/authoring/"
+  },
+  {
+    "objectID": "chapters/2.complexity.html",
+    "href": "chapters/2.complexity.html",
+    "title": "Complexity",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "chapters/1.introduction.html",
+    "href": "chapters/1.introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Ciao\n\n\n\n Back to top"
+  }
+]
